@@ -29,8 +29,8 @@ Questo archivio raccoglie la documentazione e i report tecnici relativi a vari p
 
 ### Artefatti Tecnici:
 
-  * [Allegato Tecnico: Gestione Turni](./Prog_Sviluppo_Applicazioni_Software/Allegato%2520Tecnico%2520Gestione%2520Turni.pdf)
-  * [Allegato Tecnico: Gestione Compiti](./Prog_Sviluppo_Applicazioni_Software/Allegato%2520Tecnico%2520Gestione%2520Compiti.pdf)
+  * [Allegato Tecnico: Gestione Turni](./Prog_Sviluppo_Applicazioni_Software/Allegato_Tecnico_Gestione_Turni.pdf)
+  * [Allegato Tecnico: Gestione Compiti](./Prog_Sviluppo_Applicazioni_Software/Allegato_Tecnico_Gestione_Compiti.pdf)
 
 -----
 
